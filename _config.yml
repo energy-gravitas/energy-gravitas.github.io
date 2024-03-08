@@ -21,10 +21,9 @@
 title: Gravitas
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Join us! If your interested in a job or investing, write to hi@energygravitas.com.
+  Join us! If your interested in a job or investing, write to info@energygravitas.com.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://energygravitas.com" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  energy-gravitas
 
 # Build settings
 theme: minima
