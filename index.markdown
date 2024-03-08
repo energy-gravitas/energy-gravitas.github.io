@@ -5,8 +5,8 @@
 layout: default
 ---
 
-<h1>Gravitas</h1>
+<h1>Energy Gravitas</h1>
 
-<h2>The easiest way to store and use clean energy.</h2>
+<h2>We belive that cheap energy is main force behind prosperity and innovation.</h2>
+<h3>We invest in innovative solutions to bring cheap energy to Central America and the Carribbean.</h3>
 
-<img src="/assets/images/prototype.jpeg" />
